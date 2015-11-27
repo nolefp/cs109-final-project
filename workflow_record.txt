@@ -1,0 +1,13 @@
+1. Figure how to organize/scrape user data:
+    1.1. what are unique keys for users/climbs
+    1.2. what data can be extracted from pages and how:
+            1.2.1. user_climb difficulty rating cannot be extracted from personal page, would need to be collected from climb page and then added to user_climb dbase separately
+    
+            
+    
+2. Figure how to organize/scrape climb/data:
+
+
+3. Cleaning data:
+    3.1. will possibly have problem whereby data we scrape for a user from a climb page doesnt have that user's page scraped and vice versa. Might want to go through all user_climb combos and if the user or the climb is missing from our user and climb tables, just delete. 
+    3.2. 
