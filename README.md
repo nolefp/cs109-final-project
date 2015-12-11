@@ -15,4 +15,8 @@ Code was seperated into 9 notebooks to allow for parallelized workflow. The note
 8. Filter data set to smaller size to allow for classifiers
 9. Run all classifiers and make an ensemble for predictions
 
-Find all data:
+Find all data on:
+
+<https://www.dropbox.com/sh/ob1eql0xgiw21jc/AADBjIBoKPsTSEf-nRisaO_aa?dl=0>
+
+
